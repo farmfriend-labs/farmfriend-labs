@@ -8,14 +8,14 @@ Autonomous AI systems for agricultural technology development.
 
 ---
 
-## 🌾 Current Focus
+## Current Focus
 
 We're actively building **AgentSkills Farming Library** — open source agricultural skills in AgentSkills.io format for autonomous AI assistants.
 
 **Status:** Foundation Phase (Jan 2026)
-- 📦 [AgentSkills Farming](https://github.com/farmfriend-labs/agent-skills-farming) — Skill library repository ready
-- 🤖 FF-Terminal v3.0 — Production deployment in progress
-- 🌱 Skills Development — Weather, ferments, worm farming, JADAM inputs
+- [AgentSkills Farming](https://github.com/farmfriend-labs/agent-skills-farming) — Skill library repository ready
+- FF-Terminal v3.0 — Production deployment in progress
+- Skills Development — Weather, ferments, worm farming, JADAM inputs
 
 **Roadmap:**
 - Phase 1: Foundation (Days 1-2) — Ship 3-5 initial skills
@@ -38,7 +38,7 @@ A world where autonomous AI systems manage complex agricultural operations, enab
 
 ## Projects
 
-### 🚀 Active
+### Active
 - [FF-Terminal](https://github.com/farmfriend-labs/ff-terminal) — Enterprise-grade autonomous AI terminal
   - Dual orchestration (Simple + Hierarchical)
   - 43 integrated tools, 8 AI providers
@@ -50,7 +50,7 @@ A world where autonomous AI systems manage complex agricultural operations, enab
   - Worm farming and ferments
   - JADAM natural farming methods
 
-### 📋 Planned
+### Planned
 - [FF-Agriculture](https://github.com/farmfriend-labs/ff-agriculture) — Farm automation and monitoring
 - [FF-JADAM](https://github.com/farmfriend-labs/ff-jadam) — JADAM natural farming implementation
 - [FF-Docs](https://github.com/farmfriend-labs/ff-docs) — Documentation site and guides
@@ -177,39 +177,39 @@ Open source agricultural skills in AgentSkills.io format, designed for autonomou
 ## Goals
 
 ### Short-Term (2026 Q1-Q2)
-- ✅ Complete FF-Terminal v3.0 production deployment
-- 🔄 Establish AgentSkills farming library with core skills (In Progress)
-- 🔄 Integrate farm monitoring systems
-- 🔄 Develop weather automation and alerting
-- 📋 Create JADAM natural farming implementation guides
+- Complete FF-Terminal v3.0 production deployment
+- Establish AgentSkills farming library with core skills (In Progress)
+- Integrate farm monitoring systems
+- Develop weather automation and alerting
+- Create JADAM natural farming implementation guides
 
 ### Medium-Term (2026 Q3-Q4)
-- 📋 Build agricultural monitoring platform
-- 📋 Develop worm farming automation systems
-- 📋 Create ferment tracking and input management
-- 📋 Integrate IoT sensor networks
-- 📋 Deploy FF-Terminal across farm operations
+- Build agricultural monitoring platform
+- Develop worm farming automation systems
+- Create ferment tracking and input management
+- Integrate IoT sensor networks
+- Deploy FF-Terminal across farm operations
 
 ### Long-Term (2027)
-- 📋 Autonomous farm management platform
-- 📋 Community skills marketplace
-- 📋 Regional farm network integration
-- 📋 AI-driven decision support for complex operations
-- 📋 Global open source agriculture ecosystem
+- Autonomous farm management platform
+- Community skills marketplace
+- Regional farm network integration
+- AI-driven decision support for complex operations
+- Global open source agriculture ecosystem
 
 ---
 
 ## Location
 
-📍 Cedar Creek, TX
+Cedar Creek, TX
 
 ---
 
 ## Contact
 
-- 📧 Email: farmfriend.labs@gmail.com
-- 🌐 Website: https://farm-friend.com
-- 🐦 Twitter: @twodogseeds
+- Email: farmfriend.labs@gmail.com
+- Website: https://farm-friend.com
+- Twitter: @twodogseeds
 
 ---
 
