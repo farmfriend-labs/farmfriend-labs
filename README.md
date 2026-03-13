@@ -1,4 +1,4 @@
-# FarmFriend Terminal Labs
+# FarmFriend Labs
 
 ![Status: Active](https://img.shields.io/badge/Status-Active-success)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
